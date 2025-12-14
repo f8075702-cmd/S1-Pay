@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1765312372713",
+        "name": "Shah",
+        "email": "s8075702@gmail.com",
+        "mobile": "9541017253",
+        "upi_id": "Shah@mupi",
+        "password": "$2y$10$lLXoTIfsJ3fwRm6g0bK8lucE28rUjoe1AoDATnStTn9qtIa7j5czS",
+        "balance": 2000
+    },
+    {
+        "id": "1765312762444",
+        "name": "Haha",
+        "email": "haha@maio.com",
+        "mobile": "7887878",
+        "upi_id": "Haha@mupi",
+        "password": "$2y$10$NAQK.zGdT\/1nZLnDTh5v..cUDNI0ynOquxXYBCLg57R5WzXPhIIuC",
+        "balance": 10
+    },
+    {
+        "id": "1765314097497",
+        "name": "Kredit bee",
+        "email": "kreditbee@org.in",
+        "mobile": "00000000",
+        "upi_id": "Kreditbee@kbp",
+        "password": "$2y$10$n2hsqwgvX9td7cIM3RWKZuxmJ.WMpWOLaV0VEVtxXNp48Teg87u6W",
+        "balance": 7498
+    },
+    {
+        "id": "1765314165947",
+        "name": "Shah jahan",
+        "email": "f8075702@gmail.com",
+        "mobile": "00000000",
+        "upi_id": "Shah@mupii",
+        "password": "$2y$10$8uP8GfWNVlDeL\/oEB.Ovf.no9YPmkOW\/1dd9SX2DWXCv6qmv3qPeO",
+        "balance": 1503.86
+    }
+]

@@ -1,0 +1,16 @@
+Mini-UPI (demo) - Instructions:
+
+1) Put this folder in your webserver's document root (e.g., XAMPP: htdocs/mini-upi)
+2) Ensure PHP can write to users.json and transactions.json. On Linux:
+   chmod 666 users.json transactions.json
+
+3) For admin login: generate a password hash and paste into admin_action.php:
+   php -r "echo password_hash('admin123', PASSWORD_DEFAULT).PHP_EOL;"
+
+   Replace $adminPassHash with the printed string.
+
+4) Open http://localhost/mini-upi in your browser.
+
+Notes:
+- This is a demo. Not production-safe. Use a real DB and proper security for real apps.
+- QR generation uses qrcodejs (client-side). QR scanning uses html5-qrcode (camera permission required).

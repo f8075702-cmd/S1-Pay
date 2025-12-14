@@ -1,0 +1,16 @@
+body { font-family: Arial, sans-serif; background:#f3f6fb; margin:0; padding:26px; }
+.container { display:flex; gap:20px; flex-wrap:wrap; }
+.card { background:white; padding:18px; border-radius:10px; box-shadow:0 6px 18px rgba(30,50,80,0.06); width:340px; }
+.card.small { width:260px; }
+.auth { max-width:420px; margin:40px auto; text-align:left; }
+input { display:block; width:100%; padding:10px; margin:8px 0; border:1px solid #ddd; border-radius:6px; box-sizing:border-box; }
+button { padding:10px 14px; border:0; background:#2b7cff; color:white; border-radius:8px; cursor:pointer; }
+table { width:100%; border-collapse:collapse; }
+th, td { text-align:left; border-bottom:1px solid #eee; padding:6px; font-size:14px; }
+a { color:#2b7cff; text-decoration:none; }
+h1,h2,h3 { margin:0 0 10px 0; }
+.muted { color:#666; font-size:13px; margin-top:8px; }
+.err { background:#ffe6e6; color:#a00; padding:8px; margin-bottom:8px; border-radius:6px; }
+.ok { background:#e6ffec; color:#056a20; padding:8px; margin-bottom:8px; border-radius:6px; }
+#qrScanner { width:320px; max-width:100%; }
+#userQr img { display:block; margin:auto; }
